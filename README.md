@@ -1,7 +1,3 @@
-# stock-forecasting- Based on the contents of the files, here’s a detailed README file for your Stock Forecasting project.
-
----
-
 Stock Forecasting Application
 
 This project focuses on predicting stock prices using machine learning. Built with Python, it utilizes time series data to train models for forecasting future stock prices. The project explores multiple models, including Linear Regression and LSTM (Long Short-Term Memory), and provides an interactive interface using Streamlit.
